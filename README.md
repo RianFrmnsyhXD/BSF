@@ -8,7 +8,6 @@
 Download apk Termuxnya disini biar ngga error
 [Klik Disini](https://f-droid.org/repo/com.termux_117.apk)👈
 ```
-$ install pkg python
 $ pkg update
 $ pkg upgrade
 $ pkg install python
