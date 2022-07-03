@@ -19,7 +19,7 @@ $ pkg install git
 # Run  script
 ```
 $ git clone https://github.com/RianFrmnsyhXD/BSF
-$ cd BSF V1
+$ cd BSF
 $ git pull
 $ python BSF.py
 ```
