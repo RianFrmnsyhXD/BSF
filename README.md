@@ -1,10 +1,11 @@
->> Script Free
->> Limit Share Sampai Token/Cookie Mokad
+# BOT SHARE FACEBOOK
+>> Script Free,
+>> Limit Share Sampai Token/Cookie Mokad,
 >> Jangan Lupa Kasih Bintang + Follow Yahh
->> 🔥🔥🔥
+>> 🔥
 # Pake Doang Kaga Follow
 # Instalation
-Download apk Termuxnya disini biar ngga eror🌟
+Download apk Termuxnya disini biar ngga error
 [Klik Disini](https://f-droid.org/repo/com.termux_117.apk)👈
 ```
 $ install pkg python
